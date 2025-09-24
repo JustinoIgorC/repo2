@@ -4,3 +4,5 @@
 ```
 npm install
 ```
+
+Angular 19
