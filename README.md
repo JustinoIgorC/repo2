@@ -2,5 +2,5 @@
 > Em desenvolvimento
 
 ```
-npm
+npm install
 ```
